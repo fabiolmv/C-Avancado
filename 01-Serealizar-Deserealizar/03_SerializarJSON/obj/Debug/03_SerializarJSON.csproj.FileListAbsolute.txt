@@ -1,0 +1,9 @@
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe.config
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\bin\Debug\03_SerializarJSON.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\bin\Debug\03_SerializarJSON.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\bin\Debug\00_Blibioteca.dll
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\bin\Debug\00_Blibioteca.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csprojAssemblyReference.cache
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\obj\Debug\03_SerializarJSON.csproj.CopyComplete
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\obj\Debug\03_SerializarJSON.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\03_SerializarJSON\obj\Debug\03_SerializarJSON.pdb

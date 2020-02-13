@@ -1,0 +1,9 @@
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\bin\Debug\01_SerealizarXML.exe.config
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\bin\Debug\01_SerealizarXML.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\bin\Debug\01_SerealizarXML.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\bin\Debug\00_Blibioteca.dll
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\bin\Debug\00_Blibioteca.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\obj\Debug\01_SerealizarXML.csprojAssemblyReference.cache
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\obj\Debug\01_SerealizarXML.csproj.CopyComplete
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\obj\Debug\01_SerealizarXML.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\01_SerealizarXML\obj\Debug\01_SerealizarXML.pdb

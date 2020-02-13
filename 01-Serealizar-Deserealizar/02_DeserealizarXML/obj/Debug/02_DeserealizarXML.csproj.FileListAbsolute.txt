@@ -1,0 +1,9 @@
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\bin\Debug\02_DeserealizarXML.exe.config
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\bin\Debug\02_DeserealizarXML.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\bin\Debug\02_DeserealizarXML.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\bin\Debug\00_Blibioteca.dll
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\bin\Debug\00_Blibioteca.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\obj\Debug\02_DeserealizarXML.csprojAssemblyReference.cache
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\obj\Debug\02_DeserealizarXML.csproj.CopyComplete
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\obj\Debug\02_DeserealizarXML.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\02_DeserealizarXML\obj\Debug\02_DeserealizarXML.pdb

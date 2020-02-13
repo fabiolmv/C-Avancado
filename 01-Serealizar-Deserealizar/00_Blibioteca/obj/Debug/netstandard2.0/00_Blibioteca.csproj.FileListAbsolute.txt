@@ -1,0 +1,8 @@
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\bin\Debug\netstandard2.0\00_Blibioteca.deps.json
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\bin\Debug\netstandard2.0\00_Blibioteca.dll
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\bin\Debug\netstandard2.0\00_Blibioteca.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\obj\Debug\netstandard2.0\00_Blibioteca.csprojAssemblyReference.cache
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\obj\Debug\netstandard2.0\00_Blibioteca.AssemblyInfoInputs.cache
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\obj\Debug\netstandard2.0\00_Blibioteca.AssemblyInfo.cs
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\obj\Debug\netstandard2.0\00_Blibioteca.dll
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\01-Serealizar-Deserealizar\00_Blibioteca\obj\Debug\netstandard2.0\00_Blibioteca.pdb
