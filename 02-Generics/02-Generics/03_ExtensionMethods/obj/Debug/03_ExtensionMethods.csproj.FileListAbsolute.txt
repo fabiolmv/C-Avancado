@@ -1,0 +1,6 @@
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.exe.config
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.exe
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\03_ExtensionMethods\bin\Debug\03_ExtensionMethods.pdb
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.exe
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\03_ExtensionMethods\obj\Debug\03_ExtensionMethods.pdb

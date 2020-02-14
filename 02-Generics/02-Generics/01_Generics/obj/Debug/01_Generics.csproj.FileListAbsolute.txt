@@ -1,0 +1,6 @@
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\01_Generics\bin\Debug\01_Generics.exe.config
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\01_Generics\bin\Debug\01_Generics.exe
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\01_Generics\bin\Debug\01_Generics.pdb
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\01_Generics\obj\Debug\01_Generics.csprojAssemblyReference.cache
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\01_Generics\obj\Debug\01_Generics.exe
+C:\Users\fabio\OneDrive\Documentos\Cursos\Udemy\C-Sharp-Avancado-EliasRibeiro\C-Sharp-Avancado\02-Generics\02-Generics\01_Generics\obj\Debug\01_Generics.pdb

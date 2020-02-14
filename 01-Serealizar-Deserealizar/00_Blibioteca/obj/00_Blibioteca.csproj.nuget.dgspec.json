@@ -1,35 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\03715856602\\Documents\\GitHub\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj": {}
+    "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\C-Sharp-Avancado-EliasRibeiro\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\03715856602\\Documents\\GitHub\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj": {
+    "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\C-Sharp-Avancado-EliasRibeiro\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\03715856602\\Documents\\GitHub\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj",
+        "projectUniqueName": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\C-Sharp-Avancado-EliasRibeiro\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj",
         "projectName": "00_Blibioteca",
-        "projectPath": "C:\\Users\\03715856602\\Documents\\GitHub\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj",
-        "packagesPath": "C:\\Users\\03715856602\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\03715856602\\Documents\\GitHub\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\obj\\",
+        "projectPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\C-Sharp-Avancado-EliasRibeiro\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\00_Blibioteca.csproj",
+        "packagesPath": "C:\\Users\\fabio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fabio\\OneDrive\\Documentos\\Cursos\\Udemy\\C-Sharp-Avancado-EliasRibeiro\\C-Sharp-Avancado\\01-Serealizar-Deserealizar\\00_Blibioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\03715856602\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\fabio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
         ],
-        "sources": {
-          "http://nexus.aic.serpro/repository/nuget-hosted/": {},
-          "http://nuget.aic.serpro/api/v2": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {}
@@ -61,7 +54,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
