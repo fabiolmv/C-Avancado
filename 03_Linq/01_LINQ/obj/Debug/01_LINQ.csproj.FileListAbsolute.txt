@@ -1,0 +1,6 @@
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\03_Linq\01_LINQ\bin\Debug\01_LINQ.exe.config
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\03_Linq\01_LINQ\bin\Debug\01_LINQ.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\03_Linq\01_LINQ\bin\Debug\01_LINQ.pdb
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\03_Linq\01_LINQ\obj\Debug\01_LINQ.csprojAssemblyReference.cache
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\03_Linq\01_LINQ\obj\Debug\01_LINQ.exe
+C:\Users\03715856602\Documents\GitHub\C-Sharp-Avancado\03_Linq\01_LINQ\obj\Debug\01_LINQ.pdb
